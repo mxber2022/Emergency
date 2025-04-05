@@ -37,6 +37,10 @@ At the heart of Emergency is our real-time disaster map. Users can pinpoint thei
 
 https://github.com/mxber2022/metal-token-app
 
+## WorldMiniKit Auth repo
+
+https://github.com/mxber2022/my-app
+
 ## ⚙️ Installation
 
 1. **Clone the Repository**
