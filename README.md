@@ -1,4 +1,6 @@
-**Emergency** is a real-time communication platform designed to empower individuals and rescue teams during natural disasters like typhoons, floods, or earthquakes. By integrating a map-based interface, instant messaging, video updates, and community-driven support features, Emergency ensures seamless coordination and life-saving communication in crisis zones.
+**Emergency** Imagine a world where every individual in a disaster zone has the power to connect, coordinate, and contribute to life-saving efforts. Introducing Emergency, a cutting-edge platform designed to revolutionize disaster response.
+
+At the heart of Emergency is our real-time disaster map. Users can pinpoint their locations on an interactive interface that updates in real time, providing critical information to those who need it most. It's the GPS for saving lives.
 
 ---
 
