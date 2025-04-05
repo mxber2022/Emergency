@@ -33,6 +33,10 @@ At the heart of Emergency is our real-time disaster map. Users can pinpoint thei
 
 ---
 
+## Metal Bounty Repo Link
+
+https://github.com/mxber2022/metal-token-app
+
 ## ⚙️ Installation
 
 1. **Clone the Repository**
